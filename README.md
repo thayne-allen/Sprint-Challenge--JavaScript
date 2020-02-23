@@ -34,6 +34,8 @@ Both `.forEach` and `.map` will iterate over each item in a given data, but .map
 
 2. What is the difference between a function and a method?
 
+A function is a tool used to manipulate data. A method is a function used inside of another function as one of it's properties.
+
 3. What is closure?
 
 4. Describe the four rules of the 'this' keyword.
