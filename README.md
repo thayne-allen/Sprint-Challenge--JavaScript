@@ -38,6 +38,8 @@ A function is a tool used to manipulate data. A method is a function used inside
 
 3. What is closure?
 
+Closure is described as a function and it's lexical environment.  Closure allows an inner function to access the variables of it's parent.
+
 4. Describe the four rules of the 'this' keyword.
 
 5. Why do we need super() in an extended class?
