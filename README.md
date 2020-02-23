@@ -42,6 +42,11 @@ Closure is described as a function and it's lexical environment.  Closure allows
 
 4. Describe the four rules of the 'this' keyword.
 
+1. `This` refers to the global scope when not passed to a function.
+2. `This` points to the left of the dot implicitly when invoked.
+3. `This` reassigns values explicitly with the use of `.call` or `.apply`.
+4. `This` is used in constructors and points to the parent function.
+
 5. Why do we need super() in an extended class?
 
 ## Project Set up
