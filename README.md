@@ -49,6 +49,8 @@ Closure is described as a function and it's lexical environment.  Closure allows
 
 5. Why do we need super() in an extended class?
 
+`Super` is used to pass attributes from the parent class.
+
 ## Project Set up
 
 Follow these steps to set up and work on your project:
